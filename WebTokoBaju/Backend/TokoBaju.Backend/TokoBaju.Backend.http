@@ -1,0 +1,6 @@
+@TokoBaju.Backend_HostAddress = http://localhost:5091
+
+GET {{TokoBaju.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
